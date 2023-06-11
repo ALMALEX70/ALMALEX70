@@ -778,7 +778,11 @@ acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="vacio", vacio
 
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="TDT" tvg-id="Real Madrid TV", Real Madrid TV - 1080
+http://127.0.0.1:6878/ace/getstream?id=0ec3f3786318acd8dca2588f74c3759cda76cd11
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="TDT" tvg-id="Real Madrid TV", Real Madrid TV - 720
+http://127.0.0.1:6878/ace/getstream?id=0827cf7d290967985892965c6e61244a479d6dcd
 
 
 
