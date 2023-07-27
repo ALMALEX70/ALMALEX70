@@ -775,6 +775,9 @@ acestream://c71fb593810ce837545e8d8b384e50a42c35a316
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="TDT" tvg-id="MundoToro FHD", MundoToro FHD
 acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
 
+#EXTINF:-1 group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 IPTV
+http://37.49.230.42:8080/stadnik/6a627b52a9/81096
+
 #EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="vacio", vacio
 
 
