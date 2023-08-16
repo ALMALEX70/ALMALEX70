@@ -2,9 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga De Campeones 1080 Multi", M+ Liga De Campeones FHD
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 1080 ", M+ Liga De Campeones FHD
-acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 1080 2 ", M+ Liga De Campeones FHD
 acestream://a4ee6f9590351d2c88c416f9962af82c7e1ce816
