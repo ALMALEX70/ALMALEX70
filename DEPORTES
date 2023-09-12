@@ -157,7 +157,7 @@ acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="TDT" tvg-id="Toros", Toros
-acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
+http://bilisimiptv.online:8080/Cafer/cafer123/157598
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="NBA TV", NBA TV
 acestream://e72d03fb9694164317260f684470be9ab781ed95
@@ -238,7 +238,7 @@ acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
 http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/243743
 
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="TDT" tvg-id="MundoToro FHD", MundoToro FHD
-acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
+http://bilisimiptv.online:8080/Cafer/cafer123/157598
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/640px-Movistar_Plus%2B_2022_logo.svg.png" group-title="TDT" tvg-id="Movistar +", Movistar +
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
