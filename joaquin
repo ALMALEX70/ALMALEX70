@@ -279,6 +279,9 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321344.ts
 #EXTINF:-1 tvg-logo="https://www.giztele.com/wp-content/uploads/2020/08/la-resistencia.jpg" group-title="Movistar" tvg-id="Movistar Resistencia ", La Resistencia 24H
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321286.ts
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="SUPERCOPA" tvg-id="Supercopa Multi 1080", Supercopa Multi 1080
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+
 #EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="vacio", vacio
 
 
