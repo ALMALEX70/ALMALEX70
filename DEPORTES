@@ -22,7 +22,7 @@ acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 3 720", M+ Liga De Campeones 03 HD
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 4 ", M+ Liga De Campeones 04 
 acestream://1a1b528109edead1904e3dbff575637a452dd1fa
@@ -278,6 +278,9 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321344.ts
 
 #EXTINF:-1 tvg-logo="https://www.giztele.com/wp-content/uploads/2020/08/la-resistencia.jpg" group-title="Movistar" tvg-id="Movistar Resistencia ", La Resistencia 24H
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321286.ts
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="SUPERCOPA" tvg-id="Supercopa Multi 1080", Supercopa Multi 1080
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
 #EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="vacio", vacio
 
