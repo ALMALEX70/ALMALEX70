@@ -222,21 +222,6 @@ acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="TDT" tvg-id ="La 1 UHD", La 1
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 
-#EXTINF:-1 tvg-logo="https://www.jornadaperfecta.com/blog/wp-content/uploads/2020/01/Supercopa-de-Espan%CC%83a-2020.jpg" group-title= "Supercopa" tvg-id="Supercopa 1080 Multi", M+ Supercopa FHD
-acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
-
-#EXTINF:-1 tvg-logo="https://www.jornadaperfecta.com/blog/wp-content/uploads/2020/01/Supercopa-de-Espan%CC%83a-2020.jpg" group-title= "Supercopa" tvg-id="Supercopa 1080 Multi (Opción 2)", M+ Supercopa FHD
-acestream://c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
-
-#EXTINF:-1 tvg-logo="https://www.jornadaperfecta.com/blog/wp-content/uploads/2020/01/Supercopa-de-Espan%CC%83a-2020.jpg" group-title= "Supercopa" tvg-id="Supercopa 1080", M+ Supercopa FHD
-acestream://95d9967309d74d3dbd87c66cf374666bb9da9f07
-
-#EXTINF:-1 tvg-logo="https://www.jornadaperfecta.com/blog/wp-content/uploads/2020/01/Supercopa-de-Espan%CC%83a-2020.jpg" group-title= "Supercopa" tvg-id="Supercopa 720", M+ Supercopa HD
-acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
-
-#EXTINF:-1 tvg-logo="https://www.jornadaperfecta.com/blog/wp-content/uploads/2020/01/Supercopa-de-Espan%CC%83a-2020.jpg" group-title= "Supercopa" tvg-id="Supercopa FHD", M+ Supercopa FHD
-http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/243743
-
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="TDT" tvg-id="MundoToro FHD", MundoToro FHD
 http://yorkshiredog.xyz:8080/PACOPINTOR/523273/17020
 
