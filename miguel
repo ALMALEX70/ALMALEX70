@@ -1,24 +1,25 @@
-#EXTMBU 
-#EXTINF:-1, *Mejor proveedor de IPTV premium | Más de 3000 canales Full HD https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%201a%20mejor%20suscripcion. 
-#EXTINF: -1, CAZA Y PESCA (ES) 
-http://66.70.182.154:25461/live/sRdG189XnP/aou33TPoDb/731.m3u8 
-#EXTINF: -1, Moto GP HD (ES) 
-http://66.70.182.154:25461/live/sRdG189XnP/aou33TPoDb/756.m3u8 
-#EXTINF: -1, Movistar F1 HD (ES) 
-http://66.70.182.154:25461/live/sRdG189XnP/aou3JTPoDb/757.m3u8 
-#EXTINF: -1, CANAL PANDA (ES) 
-http://66.70.182.154:25461/live/sRdG189XnP/aou3JTPoDb/758.m3u8 
-#EXTINF: -1, CLAN TVE (ES) 
-http://66.70.182.154: 25461/live/sRdG189XnP/aou3JTPoDb/760.m3ิน8 
-#EXTINF: -1, DISNEY XD (ES) 
-http://66.70.182.154:25461/live/sRdG189XnP/aou33TPoDb/761.m3u8 
-#EXTINF: -1, DISNEY CHANNEL (ES) 
-http://66.70.182.154:25461/live/sRdG189XnP/aou3JTPoDb/762.m3u8 
-#EXTINF: -1, CANAL ORBE 21 (ES) 
-http://66.70.182.154:25461/live/sRdG189XnP/aou3JTPoDb/764.m3u8 
-#EXTINF: -1, CANAL DECASA (ES) 
-http://66.70.182.154:25461/live/sRdG189XnP/aou3JTPoDb/765 .m3u8 
-#EXTINF: -1, CANAL COCINA (ES) 
-http://66.70.182.154:25461/live/sRdG189XnP/aou33TPoDb/766-m3u8 
-#EXTINF: -1, COSMO HD (ES) 
-http://66.70.182.154:25461/live/sRdG189XnP/aou3JTPoDb/767.m3u8
+#EXTM3U
+#EXTINF:-1, Mejor proveedor de IPTV premium | Más de 3000 canales Full HD
+https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%201a%20mejor%20suscripcion.
+#EXTINF:-1, CAZA Y PESCA (ES)
+http://66.70.182.154:25461/live/sRdG189XnP/aou33TPoDb/731.m3u8
+#EXTINF:-1, Moto GP HD (ES)
+http://66.70.182.154:25461/live/sRdG189XnP/aou33TPoDb/756.m3u8
+#EXTINF:-1, Movistar F1 HD (ES)
+http://66.70.182.154:25461/live/sRdG189XnP/aou33TPoDb/757.m3u8
+#EXTINF:-1, CANAL PANDA (ES)
+http://66.70.182.154:25461/live/sRdG189XnP/aou33TPoDb/758.m3u8
+#EXTINF:-1, CLAN TVE (ES)
+http://66.70.182.154:25461/live/sRdG189XnP/aou33TPoDb/760.m3u8
+#EXTINF:-1, DISNEY XD (ES)
+http://66.70.182.154:25461/live/sRdG189XnP/aou33TPoDb/761.m3u8
+#EXTINF:-1, DISNEY CHANNEL (ES)
+http://66.70.182.154:25461/live/sRdG189XnP/aou33TPoDb/762.m3u8
+#EXTINF:-1, CANAL ORBE 21 (ES)
+http://66.70.182.154:25461/live/sRdG189XnP/aou33TPoDb/764.m3u8
+#EXTINF:-1, CANAL DECASA (ES)
+http://66.70.182.154:25461/live/sRdG189XnP/aou33TPoDb/765.m3u8
+#EXTINF:-1, CANAL COCINA (ES)
+http://66.70.182.154:25461/live/sRdG189XnP/aou33TPoDb/766.m3u8
+#EXTINF:-1, COSMO HD (ES)
+http://66.70.182.154:25461/live/sRdG189XnP/aou33TPoDb/767.m3u8
