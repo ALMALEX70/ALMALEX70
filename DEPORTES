@@ -144,8 +144,8 @@ acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="TDT" tvg-id="Ellas #V", M+ Ellas #V
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/meventos.png" group-title="TDT" tvg-id="Eventos de Movistar", Eventos de Movistar
-acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/meventos.png" group-title="TDT" tvg-id="Movistar Plus", Movistar Plus
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="TDT" tvg-id="Real Madrid TV - 1080", Real Madrid TV
 acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11
