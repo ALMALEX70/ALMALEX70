@@ -244,7 +244,7 @@ http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/558669.ts
 http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1143
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/1200px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo. svg.png" group-title="Movistar" tvg-id="Movistar Acción", M+ Acción
-http://login.lionboxtv.xyz:80/protoniom1201/wMLkbzV8dXCC/13951
+acestream://2f7be8aac51a4442ba27202ce7b73437255719f7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="Movistar" tvg -id="Movistar Comedia", M+ Comedia
 http://login.lionboxtv.xyz:80/protoniom1201/wMLkbzV8dXCC/13955
