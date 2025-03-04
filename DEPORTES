@@ -1,19 +1,19 @@
 #EXTM3U url-tvg="https://github.com/awiouy/webgrabplus/blob/master/config/siteini.pack/Romania/rcs-rds.ro.channels.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga De Campeones 1080 Multi", M+ Liga De Campeones 0 FHD
-acestream://c691bfa3517ada9c7626c9c82bda7f1a1f6eeac0
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 1080 ", M+ Liga De Campeones 01 FHD
-acestream://b67ac651bcb2e93fda9dba2a122e083f20394067
+acestream://840f68a0dc6e27c2927a16b4d42b9401ac50270b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 1080 2 ", M+ Liga De Campeones 01 FHD
 acestream://720c2a7afc922d575d658d98285645683dc9d346
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga De Campeones HD ", M+ Liga De Campeones 01 HD
-acestream://720c2a7afc922d575d658d98285645683dc9d346
+acestream://fe521a6e9d2ff31616125fa75bac6b0deb52b6b9
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 2 1080", M+ Liga De Campeones 02 FHD
-acestream://5c552dda22c9b00a3b7cf8a1a485034f8d90f978
+acestream://0adc3b525508b4a74ce65685870894a77401afb7
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 2 720", M+ Liga De Campeones 02 HD
 acestream://a60baf4991755b349b588a490918785f0a5a29c3
