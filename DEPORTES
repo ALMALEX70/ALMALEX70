@@ -118,7 +118,7 @@ acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg -id="DAZN 1 720", DAZN 1 HD
-acestream://9231dbffec043dfdd44f90025241d684e2c9515b
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="DAZN" tvg -id="DAZN 2 1080", DAZN 2 FHD
 acestream://b401da8e5a918fb0532ddfc2f55374a3d49ea183
