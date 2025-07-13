@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://github.com/awiouy/webgrabplus/blob/master/config/siteini.pack/Romania/rcs-rds.ro.channels.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga De Campeones 1080 Multi", M+ Liga De Campeones 0 FHD
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 1080 ", M+ Liga De Campeones 01 FHD
 acestream://840f68a0dc6e27c2927a16b4d42b9401ac50270b
@@ -13,10 +13,10 @@ acestream://720c2a7afc922d575d658d98285645683dc9d346
 acestream://fe521a6e9d2ff31616125fa75bac6b0deb52b6b9
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 2 1080", M+ Liga De Campeones 02 FHD
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+acestream://4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 2 720", M+ Liga De Campeones 02 HD
-acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
+acestream://4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 3 1080", M+ Liga De Campeones 03 FHD
 acestream://509e91774b5b2d0af80883c8d4217c3b53235231
@@ -88,7 +88,7 @@ acestream://110d441ddc9713a7452588770d2bc85504672f47
 acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga", DAZN LaLiga 2 FHD 
-acestream://97ba38d47680954be40e48bd8f43e17222fefecb
+acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga", DAZN LaLiga 2 HD
 acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
@@ -181,7 +181,7 @@ acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 acestream://3a74d9869b13e763476800740c6625e715a39879
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" group-title="DEPORTES" tvg-id="M.Deportes 2 1080", M+ Deportes 2 FHD
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem3.png" group-title="DEPORTES" tvg-id="M.Deportes 3 1080", M+ Deportes 3 FHD
 acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
