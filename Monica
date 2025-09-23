@@ -55,13 +55,13 @@ acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGA" tvg-id="M.Liga 1080 Multi" , M+ LaLigaaTV 1 FHD
-acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
+acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGA" tvg-id="M.Liga 1080", M+ LaaLigaTV 1 FHD
 acestream://4b528d10eaad747ddf52251206177573ee3e9f74
 
 #EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGA" tvg-id="M.Liga 720", M+ LaLigaTV 1 HD
-acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
+acestream://acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id ="M.Liga 2 1080", M+ LaLigaTV 2 FHD
 acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
@@ -79,10 +79,10 @@ acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" group-title="LIGA" tvg-id="Dazn La Liga 1080 Multi", DAZN LaLiga 1 FHD
-acestream://f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
+acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" group-title="LIGA" tvg-id="Dazn La Liga 1080 Multi", DAZN LaLiga 1 FHD
-acestream://
+acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" group-title="LIGA" tvg-id="Dazn La Liga 720", DAZN LaLiga 1 HD
 acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
