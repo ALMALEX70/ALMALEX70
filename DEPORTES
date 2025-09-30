@@ -7,7 +7,7 @@ acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
 acestream://a6620445cbe43b939a66a739e88dfde9d4469779
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 1080 2 ", M+ Liga De Campeones 01 FHD
-acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+acestream://0f7842f8b6c26571e5a974407b61623e56e6a052
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga De Campeones HD ", M+ Liga De Campeones 01 HD
 acestream://fe521a6e9d2ff31616125fa75bac6b0deb52b6b9
@@ -284,6 +284,7 @@ acestream:/608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGA" tvg-id="LaLiga 1080 Multi" , LaLiga 1080 Multi
 acestream://94d34491106e00394835c8cb68aa94481339b53f
+
 
 
 
